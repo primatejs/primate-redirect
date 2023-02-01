@@ -1,0 +1,9 @@
+{
+  "name": "primate/redirect",
+  "version": "0.1.0",
+  "author": "Terrablue <terrablue@proton.me>",
+  "bugs": "https://github.com/primatejs/primate-redirect/issues",
+  "repository": "https://github.com/primatejs/primate-redirect",
+  "description": "Primate redirect handler",
+  "license": "MIT"
+}
